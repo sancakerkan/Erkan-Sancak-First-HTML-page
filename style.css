@@ -1,0 +1,72 @@
+div {
+  position: relative;
+  background-color: #4682b4	;
+  width: 500px;
+  border: 15px solid slateblue;
+  padding: 30px;
+  margin: 30px;
+  top:25px; left:940px;
+}
+body{
+    background-image: url('https://codemyui.com/wp-content/uploads/2019/06/Shooting-Star-Background-in-Pure-CSS-1.gif');
+    background-size: cover;
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+    ul {
+	color:#ffffff;
+	background-color: #fff0f5;
+	text-decoration: none;
+	text-align: center;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;}
+h2 {
+  color: #ff4500;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 2px solid powderblue;
+}
+
+p.a {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #ffffff; 
+}
+p.b{
+	text-align: left;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #ffffff;
+	border: 2px solid powderblue;}
+
+
+pre {
+    display: block;
+    unicode-bidi: embed;
+    font-family: Arial, Helvetica, sans-serif;
+    white-space: pre;
+	color: #ffffff;
+}
+h1 {
+	text-align: center;
+	color: 	#c71585;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+
+	.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+.center2 {
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+width: 10%;}
+
+}
+
+
+
